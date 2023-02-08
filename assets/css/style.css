@@ -6,3 +6,9 @@
    text-align: center;
 }
 
+footer {
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+
